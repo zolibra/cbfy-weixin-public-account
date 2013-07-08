@@ -9,4 +9,4 @@
 * 修改myconf.py 的 ｀WEIXIN_TOKEN = 'YOUR TOKEN'｀ 为你自己的weixin token
 * 配置微信接口信息：
 	* http://XXX.sinaapp.com/weixin
-	* Token: <YOUR TOKEN>
+	* Token: YOUR TOKEN
